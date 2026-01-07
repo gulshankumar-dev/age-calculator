@@ -1,8 +1,34 @@
-# Age Calculator
+# 🎂 Age Calculator Web App
 
-This project is an Age Calculator application that allows users to input their birthdate and calculate their age in years, months, and days. It also provides information about the total days lived and the date of the next birthday.
+A simple, responsive, and user-friendly **Age Calculator** web application built using **HTML, CSS, and JavaScript**.  
+It allows users to calculate their exact age in **years, months, and days** based on their birthdate.
 
-## Project Structure
+---
+
+## 🔗 Live Demo
+👉 https://age-calculator-wb.netlify.app/
+
+---
+
+## ✨ Features
+- Select birthdate using date input
+- Calculates exact age (years, months, days)
+- Displays total days lived
+- Shows next birthday date
+- Clean and responsive UI
+- Works on mobile, tablet, and desktop
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Structure  
+- **CSS3** – Styling & Responsive Design  
+- **JavaScript (ES6)** – Logic & Date Calculation  
+
+---
+
+## 📂 Project Structure
+
 
 ```
 age-calculator
@@ -14,33 +40,24 @@ age-calculator
 └── README.md            # Documentation for the project
 ```
 
-## Features
 
-- Input field for selecting a birthdate
-- Calculate age in years, months, and days
-- Display total days lived
-- Show the date of the next birthday
-- Responsive design for various screen sizes
+---
 
-## Usage
+## 🚀 How to Use
+1. Open the live demo link or `index.html` in a browser
+2. Select your birthdate
+3. Click **Calculate**
+4. View your age and related details
+5. Click **Clear** to reset
 
-1. Open `index.html` in a web browser.
-2. Enter your birthdate in the provided input field.
-3. Click the "Calculate" button to see your age and related information.
-4. Use the "Clear" button to reset the input field.
+---
 
-## Dependencies
+## 📌 Use Cases
+- Beginners learning JavaScript date handling
+- Portfolio project for frontend developers
+- Practice project for DOM manipulation
 
-This project does not have any external dependencies. It uses standard HTML, CSS, and JavaScript.
+---
 
-## Setup
-
-To set up the project locally:
-
-1. Clone the repository or download the files.
-2. Open `index.html` in your preferred web browser.
-3. No additional setup is required.
-
-## License
-
-This project is open-source and available for anyone to use and modify.
+## 📜 License
+This project is open-source and free to use for learning and personal projects.
