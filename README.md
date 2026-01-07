@@ -6,7 +6,7 @@ This project is an Age Calculator application that allows users to input their b
 
 ```
 age-calculator
-├── age-calculator.html   # Main HTML document for the application
+├── index.html   # Main HTML document for the application
 ├── css
 │   └── styles.css       # CSS styles for the application
 ├── js
@@ -24,7 +24,7 @@ age-calculator
 
 ## Usage
 
-1. Open `age-calculator.html` in a web browser.
+1. Open `index.html` in a web browser.
 2. Enter your birthdate in the provided input field.
 3. Click the "Calculate" button to see your age and related information.
 4. Use the "Clear" button to reset the input field.
@@ -38,7 +38,7 @@ This project does not have any external dependencies. It uses standard HTML, CSS
 To set up the project locally:
 
 1. Clone the repository or download the files.
-2. Open `age-calculator.html` in your preferred web browser.
+2. Open `index.html` in your preferred web browser.
 3. No additional setup is required.
 
 ## License
